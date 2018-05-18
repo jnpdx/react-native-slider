@@ -19,7 +19,7 @@ import PropTypes from 'prop-types';
 var TRACK_SIZE = 4;
 var THUMB_SIZE = 20;
 
-alert("Slider!")
+bogus code
 
 function Rect(x, y, width, height) {
   this.x = x;
