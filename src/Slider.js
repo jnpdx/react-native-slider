@@ -19,8 +19,6 @@ import PropTypes from 'prop-types';
 var TRACK_SIZE = 4;
 var THUMB_SIZE = 20;
 
-bogus code
-
 function Rect(x, y, width, height) {
   this.x = x;
   this.y = y;
